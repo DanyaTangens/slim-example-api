@@ -3,7 +3,6 @@
 declare(strict_types=1);
 
 use App\Twig\AssetExtension;
-use DI\Definition\Source\DefinitionSource;
 use Doctrine\DBAL\Connection;
 use Doctrine\DBAL\DriverManager;
 use Psr\Http\Message\ResponseFactoryInterface;
